@@ -1,4 +1,6 @@
-// Description: Taxes Wit
+// Description: This script calculates the total person charge,
+// Money collected fixed.
+// Total cost of vans.  
 
 "use strict";
 var people=38;
