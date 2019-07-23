@@ -4,7 +4,7 @@
 var numUsDollars=100;
 var targetcurrency= "Yen Currency";
 
-//Calcaulate when user clicks button
+//Calculate when user clicks button
 var eurorate=1.12;
 var yenrate=0.0093;
 
@@ -15,5 +15,4 @@ if( targetcurrency=="Euro Currency") {
     var yenCurrency=numUsDollars/yenrate;    
     console.log("Your "+targetcurrency+ " for $ "+numUsDollars+" is " +yenCurrency);
 }
-  
   
